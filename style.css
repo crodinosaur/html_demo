@@ -1,0 +1,16 @@
+
+.cyan_box {
+	background-color: cyan; 
+	border-radius: 10px; 
+	border: 5px solid turquoise;
+}
+
+.header_box {
+	color: white;
+	background-color: darkblue;
+	height: 20px;
+	width: 200px;
+	margin-left: auto;
+	margin-right: auto; 
+	text-align: center;"
+}
